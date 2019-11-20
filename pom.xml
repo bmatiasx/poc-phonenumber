@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>phone-number</name>
-    <description>Proyecto para la consulta de fijos de Claro</description>
+    <description>Proyecto para la consulta de fijos de atandt</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
