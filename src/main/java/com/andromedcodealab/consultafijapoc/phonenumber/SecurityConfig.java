@@ -1,4 +1,4 @@
-package com.simtlix.consultafijapoc.phonenumber;
+package com.andromedcodealab.consultafijapoc.phonenumber;
 
 import org.keycloak.adapters.KeycloakConfigResolver;
 import org.keycloak.adapters.springboot.KeycloakSpringBootConfigResolver;

@@ -1,8 +1,8 @@
-package com.simtlix.consultafijapoc.phonenumber.service;
+package com.andromedcodealab.consultafijapoc.phonenumber.service;
 
-import com.simtlix.consultafijapoc.phonenumber.model.Address;
-import com.simtlix.consultafijapoc.phonenumber.model.Subscription;
-import com.simtlix.consultafijapoc.phonenumber.repository.AddressRepository;
+import com.andromedcodealab.consultafijapoc.phonenumber.model.Address;
+import com.andromedcodealab.consultafijapoc.phonenumber.model.Subscription;
+import com.andromedcodealab.consultafijapoc.phonenumber.repository.AddressRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

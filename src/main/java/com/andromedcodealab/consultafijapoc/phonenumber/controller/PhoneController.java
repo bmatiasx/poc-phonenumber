@@ -1,7 +1,7 @@
-package com.simtlix.consultafijapoc.phonenumber.controller;
+package com.andromedcodealab.consultafijapoc.phonenumber.controller;
 
-import com.simtlix.consultafijapoc.phonenumber.model.Customer;
-import com.simtlix.consultafijapoc.phonenumber.service.CustomerService;
+import com.andromedcodealab.consultafijapoc.phonenumber.model.Customer;
+import com.andromedcodealab.consultafijapoc.phonenumber.service.CustomerService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

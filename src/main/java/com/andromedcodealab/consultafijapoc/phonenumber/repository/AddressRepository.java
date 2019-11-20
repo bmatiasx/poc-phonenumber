@@ -1,6 +1,6 @@
-package com.simtlix.consultafijapoc.phonenumber.repository;
+package com.andromedcodealab.consultafijapoc.phonenumber.repository;
 
-import com.simtlix.consultafijapoc.phonenumber.model.Address;
+import com.andromedcodealab.consultafijapoc.phonenumber.model.Address;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

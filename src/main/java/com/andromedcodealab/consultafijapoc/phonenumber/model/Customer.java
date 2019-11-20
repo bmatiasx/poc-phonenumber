@@ -1,4 +1,4 @@
-package com.simtlix.consultafijapoc.phonenumber.model;
+package com.andromedcodealab.consultafijapoc.phonenumber.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 

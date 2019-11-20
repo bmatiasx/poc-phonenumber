@@ -1,4 +1,4 @@
-package com.simtlix.consultafijapoc.phonenumber;
+package com.andromedcodealab.consultafijapoc.phonenumber;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

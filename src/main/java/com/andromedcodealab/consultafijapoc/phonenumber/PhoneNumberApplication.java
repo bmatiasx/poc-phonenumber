@@ -1,4 +1,4 @@
-package com.simtlix.consultafijapoc.phonenumber;
+package com.andromedcodealab.consultafijapoc.phonenumber;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
